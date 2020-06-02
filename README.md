@@ -15,7 +15,7 @@ Check if your device is connected in your PC:<br>
 $ flutter devices
 ```
 Your device should appear, for example:<br>
-<img src="./assets/images/devices.png" alt="Connected devices">
+<img src="./assets/imgs/devices.png" alt="Connected devices">
 
 ### 2. Run App
 Browse to root directory of project and run the follow code:
